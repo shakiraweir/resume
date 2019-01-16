@@ -1,0 +1,24 @@
+{
+    "name": "Shakira Weir",
+    "website": "https://shakiraweir.github.io/",
+    "linkedin": "https://www.linkedin.com/messaging/thread/6370015072009355264/",
+    "github": "shakiraweir",
+    "email": "shakira.r.weir@gmail.com",
+    "resume": "https://shakiraweir.github.io/",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "express",
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+    ],
+    "other-skills": [
+        "writing"
+    ]
+}
